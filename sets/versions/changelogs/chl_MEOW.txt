@@ -1,4 +1,106 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+UU13 Thirst for Identity removed.
+UR03 Lightning Pounce removed.
+MW01 Reskar, Prince of Lions removed.
+MU01 Lela, Princess of Leopards removed.
+MR01 Timok, Prince of Cheetahs removed.
+RW01 Growcat removed.
+RW02 Drill Sergeant removed.
+RW03 End Day removed.
+RW04 Flickering Kitty removed.
+RW05 Raise the Past removed.
+RW06 Split Up removed.
+UW01 Kitty Commander removed.
+UW02 Helping Hand removed.
+UW03 To Arms! removed.
+UW04 Big Cat Removal removed.
+UW05 Flashcat removed.
+UW06 Elected Official removed.
+UW07 Pride Healer removed.
+UW08 Pride Guardian removed.
+UW09 Revivificate removed.
+UW10 Mischievous Kitten removed.
+UW11 Bicyclist removed.
+UW12 Webber removed.
+UW13 Fleet Footwork removed.
+UW14 Alliance Cat removed.
+UW15 Cat Gatherer removed.
+UW16 Stasis Cat removed.
+UW17 Malamet War Scribe removed.
+UW18 Cat Collector removed.
+UW19 Claws Out removed.
+UW20 Pride Solidarity removed.
+RR01 Endseer removed.
+RR02 Grassroots Support removed.
+RR03 Stepping Stone removed.
+UR16 Scoria, Last of the Spendthrifts removed.
+RR04 Ball Lightning removed.
+RR05 Hand Manager removed.
+RR06 Pounce Wheel removed.
+UR01 Act Alone removed.
+UR02 Pounce Fodder removed.
+UR04 Playful Shove removed.
+UR05 Summon Up the Blood removed.
+UR06 Coalition Usurer removed.
+UR07 Brief Aside removed.
+UR08 Reckless Wastrel removed.
+UR09 Hisser from the Pit removed.
+UR11 Breathless Page removed.
+UR12 Fuel the Flames removed.
+UR10 Mindsparker removed.
+UR13 Pounce Bump removed.
+UR14 Acrocat removed.
+UR15 Cheetah Mage removed.
+UR17 Two-Sworded Duelist removed.
+UR18 Hireling Charger removed.
+UR19 The Biggest Cat removed.
+UR20 empty fields and empty hands removed.
+RU01 Leap Librarian removed.
+RU02 Leap Loremaster removed.
+RU03 Leap Wasp removed.
+RU04 Pounce Cancel removed.
+RU05 Flash Enabler removed.
+RU06 Thief of Wits removed.
+UU01 Pouncewave removed.
+UU02 Spell Pierce removed.
+UU03 Noncreature Reducer removed.
+UU04 Gifter removed.
+UU05 Tappy Steve removed.
+UU07 Defy the Pride removed.
+UU08 Defy the Coalition removed.
+UU09 Library Dork removed.
+UU10 Field Reporter removed.
+UU11 Pounce Draw removed.
+UU12 Field Looter removed.
+UU14 Unravel removed.
+UU15 Thrifty Steward removed.
+UU16 Swat Away removed.
+UU18 Illusory Ambusher removed.
+UU17 Raise the Tempest removed.
+UU19 Rowdy Research removed.
+UU20 Mass Tap removed.
+UL01 Living Kloof removed.
+UL03 Living Kopje removed.
+UL02 Living Veldt removed.
+UU06 Flying Wizard Cat removed.
+UM01 Flash Payoff removed.
+UM02 Calico Wizard removed.
+UM03 Kitty Arabella removed.
+UM04 Mother of Spoils removed.
+UM05 Spite Cat removed.
+UM06 Vibrant Outburst removed.
+UM07 Spellcopy removed.
+UM08 Tappy Joe removed.
+UM09 Lord Protector removed.
+RM01 Voice of the Mad removed.
+RM02 Voice of the Wise removed.
+RM03 Voice of the Low removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
