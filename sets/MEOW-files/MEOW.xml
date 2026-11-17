@@ -1115,7 +1115,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 		</card>
 		<card>
 			<name>CM01 Pridelaw Magistrate</name>
-			<text>{T}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
+			<text>Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/159.jpg" num="163">MEOW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1132,7 +1132,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 		</card>
 		<card>
 			<name>CM02 Loyal Masses</name>
-			<text>As long as you&apos;re the player with the most life, this creature gets +1/+1.</text>
+			<text>As long as you&apos;re the player with the least life or tied for the least life, this creature gets +1/+1.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/160.jpg" num="164">MEOW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1143,13 +1143,13 @@ Whenever you draw your second card each turn, add {U}.</text>
 				<cmc>1</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CM03 Elder Cat</name>
-			<text>{UR}: This creature gets +1/-1 until end of turn.</text>
+			<name>CM03 Elder Leaper</name>
+			<text>{UR}: This creature gains flying until end of turn. (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/161.jpg" num="165">MEOW</set>
 			<prop>
 				<layout>normal</layout>

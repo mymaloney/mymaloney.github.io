@@ -1,4 +1,19 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CM03 Elder Leaper added.
+
+CM03 Elder Cat removed.
+
+CM01 Pridelaw Magistrate
+rules_text: {T}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}. => Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.
+
+CM02 Loyal Masses
+rules_text: As long as you're the player with the most life, this creature gets +1/+1. => As long as you're the player with the least life or tied for the least life, this creature gets +1/+1.
+pt: 2/1 => 1/1
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

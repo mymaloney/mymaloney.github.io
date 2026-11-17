@@ -651,7 +651,7 @@
 			}
 		},
 		{
-			"name": "CM03 Elder Cat",
+			"name": "CM03 Elder Leaper",
 			"rarity": "special",
 			"mana_cost": "{U/R}",
 			"type": "Creature — Cat Noble",
@@ -878,7 +878,7 @@
 	1 CU11 Flying Dork
 	1 CM01 Pridelaw Magistrate
 	1 CM02 Loyal Masses
-	1 CM03 Elder Cat
+	1 CM03 Elder Leaper
 	1 CM04 Well-Armed Courier
 	1 CL04 Pride Cathedral
 	1 CL05 Leap Library
