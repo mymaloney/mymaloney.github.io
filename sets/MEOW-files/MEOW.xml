@@ -5,7 +5,7 @@
 			<name>MEOW</name>
 			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-17</releasedate>
+			<releasedate>2026-11-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -77,14 +77,15 @@
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW05 Take Vengeance</name>
-			<text>Destroy target tapped creature.</text>
+			<name>CW05 Feline Flicker</name>
+			<text>Pounce {W} (You may cast this spell for {W} if you also return a tapped creature you control to its owner&apos;s hand.)
+Exile target creature, then return it to the battlefield under its owner&apos;s control.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/4.jpg" num="5">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
@@ -215,20 +216,19 @@ This creature gets +3/+0 as long as you&apos;ve cast two or more spells this tur
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW15 Prowler</name>
-			<text>Flying, Vigilance (This creature can&apos;t be blocked except by creatures with flying or reach. Attacking doesn&apos;t cause this creature to tap.)
-Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<name>CW15 Lurking Captor</name>
+			<text>When this creature enters, exile target nonland permanent until this creature leaves the battlefield.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/12.jpg" num="15">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Cat Soldier</type>
+				<type>Creature — Cat Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/1</pt>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -269,19 +269,19 @@ Soldiers you cast cost {1} less to cast.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW17 Pride Sappers</name>
-			<text>When this creature enters, creatures you control gain first strike and get +1/+0 until end of turn. (This creature deals combat damage before creatures without first strike.)</text>
+			<name>CW17 Rousing Returner</name>
+			<text>When this creature enters, return target creature with mana value 2 or less from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/15.jpg" num="17">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Cat Noble</type>
+				<type>Creature — Cat Shaman</type>
 				<maintype>Creature</maintype>
 				<manacost>3W</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -340,7 +340,6 @@ Return target creature card from your graveyard to the battlefield.</text>
 		<card>
 			<name>CW23 Pride Protector</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
-When this creature enters, destroy target tapped creature.
 {W}, {T}: Tap target creature.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/19.jpg" num="23">MEOW</set>
 			<prop>
@@ -401,8 +400,8 @@ Flying (This creature can&apos;t be blocked except by creatures with flying or r
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -489,7 +488,7 @@ When this creature enters, draw a card, then discard a card.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -513,7 +512,8 @@ When this creature enters, return target creature to its owner&apos;s hand.</tex
 		</card>
 		<card>
 			<name>CU12 Treeclimber</name>
-			<text>Whenever you draw your second card each turn, up to one target creature you control gains flying until end of turn. (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Whenever you draw your second card each turn, up to one target creature you control gains flying until end of turn. (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/30.jpg" num="62">MEOW</set>
 			<prop>
 				<layout>normal</layout>
@@ -524,7 +524,7 @@ When this creature enters, return target creature to its owner&apos;s hand.</tex
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -671,28 +671,11 @@ When this creature enters, exile up to one other target creature. Return it to t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU17 Mana Drinker</name>
-			<text>Whenever you cast a noncreature spell, you may pay {1}. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/39.jpg" num="67">MEOW</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Cat Wizard</type>
-				<maintype>Creature</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>2/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>CR01 Cheetah Charm</name>
 			<text>Choose one —
 • Target creature gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)
 • This spell deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/40.jpg" num="101">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/40.jpg" num="102">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -709,7 +692,7 @@ When this creature enters, exile up to one other target creature. Return it to t
 			<name>CR02 Coalition Fanatic</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 {T}, Sacrifice this creature: This creature deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/41.jpg" num="102">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/41.jpg" num="103">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,8 +708,8 @@ When this creature enters, exile up to one other target creature. Return it to t
 		</card>
 		<card>
 			<name>CR04 Pride Deserter</name>
-			<text>{T}: Target creature gains trample until end of turn. (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/42.jpg" num="104">MEOW</set>
+			<text>{T}: Target creature gains first strike until end of turn. (This creature deals combat damage before creatures without first strike.)</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/42.jpg" num="105">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -744,7 +727,7 @@ When this creature enters, exile up to one other target creature. Return it to t
 			<name>CR05 Coalition Radical</name>
 			<text>Firebreathing ({R}: This creature gets +1/+0 until end of turn.)
 Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/43.jpg" num="105">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/43.jpg" num="106">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -761,7 +744,7 @@ Trample (This creature can deal excess combat damage to the player or planeswalk
 		<card>
 			<name>CR06 Coalition Engineer</name>
 			<text>{T}: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/44.jpg" num="106">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/44.jpg" num="107">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +762,7 @@ Trample (This creature can deal excess combat damage to the player or planeswalk
 			<name>CR07 Coalition Archer</name>
 			<text>Reach (This creature can block creatures with flying.)
 {1}, {T}: This creature deals 1 damage to target player.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/45.jpg" num="107">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/45.jpg" num="108">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -795,8 +778,8 @@ Trample (This creature can deal excess combat damage to the player or planeswalk
 		</card>
 		<card>
 			<name>CR09 Incite the Serfs</name>
-			<text>Creatures target player controls get +3/+0 and gain trample until end of turn. (That creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/47.jpg" num="109">MEOW</set>
+			<text>Cats target player controls get +2/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/47.jpg" num="110">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -813,7 +796,7 @@ Trample (This creature can deal excess combat damage to the player or planeswalk
 			<name>CR11 Coalition Vanguard</name>
 			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
 Discard a card, Sacrifice this creature: Draw two cards.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/48.jpg" num="111">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/48.jpg" num="112">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -832,7 +815,7 @@ Discard a card, Sacrifice this creature: Draw two cards.</text>
 			<text>Choose one —
 • Discard two cards. Draw two cards.
 • Up to two target creatures each get +2/+1 until end of turn.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/49.jpg" num="112">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/49.jpg" num="113">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -849,7 +832,7 @@ Discard a card, Sacrifice this creature: Draw two cards.</text>
 			<name>CR13 Kindlesparker</name>
 			<text>{T}: This creature deals 1 damage to target opponent.
 Whenever you cast a noncreature spell, untap this creature.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/50.jpg" num="113">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/50.jpg" num="114">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -867,7 +850,7 @@ Whenever you cast a noncreature spell, untap this creature.</text>
 			<name>CR14 Leap Deserter</name>
 			<text>Reach (This creature can block creatures with flying.)
 Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/51.jpg" num="114">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/51.jpg" num="115">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -886,7 +869,7 @@ Whenever this creature becomes tapped, you may discard a card. If you do, draw a
 			<text>Whenever you discard one or more cards, this creature deals that much damage to each opponent.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
 When you cycle this card, it deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/52.jpg" num="115">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/52.jpg" num="116">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -905,7 +888,7 @@ When you cycle this card, it deals 1 damage to each opponent.</text>
 			<text>Pounce {1}{R} (You may cast this spell for {1}{R} if you also return a tapped creature you control to its owner&apos;s hand.)
 Haste (This creature can attack and {T} as soon as it comes under your control.)
 If this creature was pounced, sacrifice it at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/53.jpg" num="116">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/53.jpg" num="117">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -923,7 +906,7 @@ If this creature was pounced, sacrifice it at the beginning of the next end step
 			<name>CR17 Leopard Hunter</name>
 			<text>Reach (This creature can block creatures with flying.)
 {2}{R}, Discard a card: Draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/54.jpg" num="117">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/54.jpg" num="118">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -933,7 +916,7 @@ If this creature was pounced, sacrifice it at the beginning of the next end step
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/2</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -941,7 +924,7 @@ If this creature was pounced, sacrifice it at the beginning of the next end step
 			<name>CR18 Swaggering Braggart</name>
 			<text>Reach (This creature can block creatures with flying.)
 When this creature enters, target creature can&apos;t block this turn.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/55.jpg" num="118">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/55.jpg" num="119">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -959,7 +942,7 @@ When this creature enters, target creature can&apos;t block this turn.</text>
 			<name>CR19 Turn of Coat</name>
 			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/56.jpg" num="119">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/56.jpg" num="120">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -973,16 +956,15 @@ Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR22 Once More unto the Breach</name>
-			<text>Cast this spell only during combat.
-Untap all attacking creatures.
-After this combat phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/57.jpg" num="122">MEOW</set>
+			<name>CR22 Rebuff and Rout</name>
+			<text>Pounce {R}{R}{R} (You may cast this spell for {R}{R}{R} if you also return a tapped creature you control to its owner&apos;s hand.)
+This spell deals 2 damage to each creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/57.jpg" num="123">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>3RR</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
@@ -994,7 +976,7 @@ After this combat phase, there is an additional combat phase.</text>
 			<name>CR20 Handfixer</name>
 			<text>Reach (This creature can block creatures with flying.)
 Discard a card: Draw a card. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/58.jpg" num="120">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/58.jpg" num="121">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1013,7 +995,7 @@ Discard a card: Draw a card. Activate only once each turn.</text>
 			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)
 Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
 When you cycle this card, target creature gains trample until end of turn. (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/59.jpg" num="121">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/59.jpg" num="122">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1031,7 +1013,7 @@ When you cycle this card, target creature gains trample until end of turn. (This
 			<name>CR08 Tormenting Voice</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/89.jpg" num="108">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/89.jpg" num="109">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,8 +1030,8 @@ Draw two cards.</text>
 			<name>CL03 Thornwood Kloof</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
-{4}, {T}, Sacrifice this land: This land deals 2 damage to any target. Draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/139.jpg" num="171">MEOW</set>
+{4}, {T}, Sacrifice this land: This land deals 2 damage to any target. Draw a card. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/139.jpg" num="173">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1065,8 +1047,8 @@ Draw two cards.</text>
 			<name>CL02 Sentinel Kopje</name>
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
-{4}, {T}, Sacrifice this land: Return target creature to its owner&apos;s hand. Draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/140.jpg" num="170">MEOW</set>
+{4}, {T}, Sacrifice this land: Return target creature to its owner&apos;s hand. Draw a card. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/140.jpg" num="172">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1082,8 +1064,8 @@ Draw two cards.</text>
 			<name>CL01 Amber Veldt</name>
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
-{4}, {T}, Sacrifice this land: Target creature gains first strike until end of turn. Draw a card. (That creature deals combat damage before creatures without first strike.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/141.jpg" num="169">MEOW</set>
+{4}, {T}, Sacrifice this land: Target creature gains first strike until end of turn. Draw a card. Activate only as a sorcery. (That creature deals combat damage before creatures without first strike.)</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/141.jpg" num="171">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1114,13 +1096,14 @@ Whenever you draw your second card each turn, add {U}.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CM01 Pridelaw Magistrate</name>
-			<text>Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/159.jpg" num="163">MEOW</set>
+			<name>CM01 Bird Counsel</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When this creature enters, tap target permanent.</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/159.jpg" num="165">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Cat Peasant</type>
+				<type>Creature — Bird Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>W/U</manacost>
 				<cmc>1</cmc>
@@ -1132,15 +1115,15 @@ Whenever you draw your second card each turn, add {U}.</text>
 		</card>
 		<card>
 			<name>CM02 Loyal Masses</name>
-			<text>As long as you&apos;re the player with the least life or tied for the least life, this creature gets +1/+1.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/160.jpg" num="164">MEOW</set>
+			<text>When this creature enters, creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/160.jpg" num="166">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Cat Peasant</type>
 				<maintype>Creature</maintype>
-				<manacost>R/W</manacost>
-				<cmc>1</cmc>
+				<manacost>3R/W</manacost>
+				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>1/1</pt>
@@ -1148,26 +1131,28 @@ Whenever you draw your second card each turn, add {U}.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CM03 Elder Leaper</name>
-			<text>{UR}: This creature gains flying until end of turn. (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/161.jpg" num="165">MEOW</set>
+			<name>CM03 Elder Counsel</name>
+			<text>When this creature enters, choose one —
+• Target creature gets +1/+1 until end of turn.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/161.jpg" num="167">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Cat Noble</type>
+				<type>Creature</type>
 				<maintype>Creature</maintype>
 				<manacost>U/R</manacost>
 				<cmc>1</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>1/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CM04 Well-Armed Courier</name>
 			<text>When this creature enters or attacks, you may draw a card. If you do, discard a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/162.jpg" num="166">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/162.jpg" num="168">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,7 +1171,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 			<text>This land enters tapped.
 {T}: Add {W}.
 {1}{W}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/163.jpg" num="172">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/163.jpg" num="174">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1203,7 +1188,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 			<text>This land enters tapped.
 {T}: Add {U}.
 {1}{U}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/164.jpg" num="173">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/164.jpg" num="175">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1220,7 +1205,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 			<text>This land enters tapped.
 {T}: Add {R}.
 {1}{R}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/165.jpg" num="174">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/165.jpg" num="176">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1235,7 +1220,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 		<card>
 			<name>CM05 Savannah Lions is Boros</name>
 			<text></text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/166.jpg" num="167">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/166.jpg" num="169">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1253,7 +1238,7 @@ Whenever you draw your second card each turn, add {U}.</text>
 			<name>CM06 Cat-Owl 2</name>
 			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
 Whenever this creature attacks, tap or untap target creature.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/167.jpg" num="168">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/167.jpg" num="170">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1271,7 +1256,7 @@ Whenever this creature attacks, tap or untap target creature.</text>
 			<name>CR23 Headsman&apos;s Stroke</name>
 			<text>Pounce {2}{R} (You may cast this spell for {2}{R} if you also return a tapped creature you control to its owner&apos;s hand.)
 This spell deals 5 damage to any target. If this spell was pounced, this spell deals 5 damage to target creature instead.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/168.jpg" num="123">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/168.jpg" num="124">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1287,7 +1272,7 @@ This spell deals 5 damage to any target. If this spell was pounced, this spell d
 		<card>
 			<name>CR03 Shock</name>
 			<text>This spell deals 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/169.jpg" num="103">MEOW</set>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/169.jpg" num="104">MEOW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1299,24 +1284,6 @@ This spell deals 5 damage to any target. If this spell was pounced, this spell d
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>CR10 Shocking Pouncer</name>
-			<text>Pounce {R} (You may cast this spell for {R} if you also return a tapped creature you control to its owner&apos;s hand.)
-When this creature enters, it deals damage equal to its power to any target.</text>
-			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/170.jpg" num="110">MEOW</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Cat Wizard</type>
-				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CU16 Words, Words, Words</name>
@@ -1337,7 +1304,7 @@ Draw three cards. If this spell wasn&apos;t pounced, discard a card.</text>
 		</card>
 		<card>
 			<name>CU08 Rude Interruption</name>
-			<text>Counter target spell unless its controller pays {2} or returns a tapped creature they control to its owner&apos;s hand.</text>
+			<text>Counter target spell unless its controller returns a tapped creature they control to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/172.jpg" num="58">MEOW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1364,7 +1331,7 @@ Draw three cards. If this spell wasn&apos;t pounced, discard a card.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1415,6 +1382,40 @@ Draw three cards. If this spell wasn&apos;t pounced, discard a card.</text>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR10 Hastemaker</name>
+			<text>{T}: Target creature gains haste until end of turn. (This creature can attack and {T} as soon as it comes under your control.)</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/177.jpg" num="111">MEOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU17 The Peeker</name>
+			<text>When this creature enters and whenever you draw your second card each turn, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://mymaloney.github.io/sets/MEOW-files/img/178.jpg" num="67">MEOW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>

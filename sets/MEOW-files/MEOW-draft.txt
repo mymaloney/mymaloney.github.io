@@ -41,10 +41,10 @@
 			}
 		},
 		{
-			"name": "CW05 Take Vengeance",
+			"name": "CW05 Feline Flicker",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/4.jpg"
@@ -121,10 +121,10 @@
 			}
 		},
 		{
-			"name": "CW15 Prowler",
+			"name": "CW15 Lurking Captor",
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Cat Soldier",
+			"type": "Creature — Cat Rogue",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/12.jpg"
@@ -151,10 +151,10 @@
 			}
 		},
 		{
-			"name": "CW17 Pride Sappers",
+			"name": "CW17 Rousing Returner",
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Cat Noble",
+			"type": "Creature — Cat Shaman",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/15.jpg"
@@ -223,7 +223,7 @@
 		{
 			"name": "CU03 Change of Spots",
 			"rarity": "special",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
@@ -381,21 +381,11 @@
 			}
 		},
 		{
-			"name": "CU17 Mana Drinker",
-			"rarity": "special",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Cat Wizard",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://mymaloney.github.io/sets/MEOW-files/img/39.jpg"
-			}
-		},
-		{
 			"name": "CR01 Cheetah Charm",
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/40.jpg"
 			}
@@ -405,7 +395,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/41.jpg"
 			}
@@ -415,7 +405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/42.jpg"
 			}
@@ -425,7 +415,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Wizard",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/43.jpg"
 			}
@@ -435,7 +425,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Advisor",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/44.jpg"
 			}
@@ -445,7 +435,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Cat Archer",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/45.jpg"
 			}
@@ -455,7 +445,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/47.jpg"
 			}
@@ -465,7 +455,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/48.jpg"
 			}
@@ -475,7 +465,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/49.jpg"
 			}
@@ -485,7 +475,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Wizard",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/50.jpg"
 			}
@@ -495,7 +485,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/51.jpg"
 			}
@@ -505,7 +495,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Cat Wizard",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/52.jpg"
 			}
@@ -515,7 +505,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/53.jpg"
 			}
@@ -525,7 +515,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/54.jpg"
 			}
@@ -535,7 +525,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/55.jpg"
 			}
@@ -545,17 +535,17 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/56.jpg"
 			}
 		},
 		{
-			"name": "CR22 Once More unto the Breach",
+			"name": "CR22 Rebuff and Rout",
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Instant",
-			"collector_number": "122",
+			"type": "Sorcery",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/57.jpg"
 			}
@@ -565,7 +555,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Cat Advisor",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/58.jpg"
 			}
@@ -575,7 +565,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/59.jpg"
 			}
@@ -585,7 +575,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/89.jpg"
 			}
@@ -595,7 +585,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "171",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/139.jpg"
 			}
@@ -605,7 +595,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "170",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/140.jpg"
 			}
@@ -615,7 +605,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "169",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/141.jpg"
 			}
@@ -631,11 +621,11 @@
 			}
 		},
 		{
-			"name": "CM01 Pridelaw Magistrate",
+			"name": "CM01 Bird Counsel",
 			"rarity": "special",
 			"mana_cost": "{W/U}",
-			"type": "Creature — Cat Peasant",
-			"collector_number": "163",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/159.jpg"
 			}
@@ -643,19 +633,19 @@
 		{
 			"name": "CM02 Loyal Masses",
 			"rarity": "special",
-			"mana_cost": "{R/W}",
+			"mana_cost": "{3}{R/W}",
 			"type": "Creature — Cat Peasant",
-			"collector_number": "164",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/160.jpg"
 			}
 		},
 		{
-			"name": "CM03 Elder Leaper",
+			"name": "CM03 Elder Counsel",
 			"rarity": "special",
 			"mana_cost": "{U/R}",
-			"type": "Creature — Cat Noble",
-			"collector_number": "165",
+			"type": "Creature",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/161.jpg"
 			}
@@ -665,7 +655,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U/R}{U/R}",
 			"type": "Creature — Cat Scout Peasant",
-			"collector_number": "166",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/162.jpg"
 			}
@@ -675,7 +665,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "172",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/163.jpg"
 			}
@@ -685,7 +675,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "173",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/164.jpg"
 			}
@@ -695,7 +685,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "174",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/165.jpg"
 			}
@@ -705,7 +695,7 @@
 			"rarity": "special",
 			"mana_cost": "{R/W}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "167",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/166.jpg"
 			}
@@ -715,7 +705,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W/U}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "168",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/167.jpg"
 			}
@@ -725,7 +715,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/168.jpg"
 			}
@@ -735,19 +725,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/169.jpg"
-			}
-		},
-		{
-			"name": "CR10 Shocking Pouncer",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Cat Wizard",
-			"collector_number": "110",
-			"image_uris": {
-				"en": "https://mymaloney.github.io/sets/MEOW-files/img/170.jpg"
 			}
 		},
 		{
@@ -809,6 +789,26 @@
 			"image_uris": {
 				"en": "https://mymaloney.github.io/sets/MEOW-files/img/176.jpg"
 			}
+		},
+		{
+			"name": "CR10 Hastemaker",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Advisor",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mymaloney.github.io/sets/MEOW-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "CU17 The Peeker",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mymaloney.github.io/sets/MEOW-files/img/178.jpg"
+			}
 		}
 	]
 
@@ -817,7 +817,7 @@
 	1 CW02 Stalwart Second
 	1 CW03 Proud Instinct
 	1 CW04 Court Cutpurse
-	1 CW05 Take Vengeance
+	1 CW05 Feline Flicker
 	1 CW06 Well-Fed Patrician
 	1 CW07 Feed the Fields
 	1 CW08 Drowsy Watchman
@@ -825,10 +825,10 @@
 	1 CW10 Goldmane
 	1 CW14 Pridelaw Verdict
 	1 CW13 Still-Soliciting Eye
-	1 CW15 Prowler
+	1 CW15 Lurking Captor
 	1 CW20 Morale Officer
 	1 CW16 Muster Sergeant
-	1 CW17 Pride Sappers
+	1 CW17 Rousing Returner
 	1 CW19 Leap Mediator
 	1 CW21 Return
 	1 CW22 Settle This Like Cats
@@ -851,7 +851,6 @@
 	1 CU22 Belated Reinforcement
 	1 CU23 Skyskipper
 	1 CU18 Bouncy Boy
-	1 CU17 Mana Drinker
 	1 CR01 Cheetah Charm
 	1 CR02 Coalition Fanatic
 	1 CR04 Pride Deserter
@@ -868,7 +867,7 @@
 	1 CR17 Leopard Hunter
 	1 CR18 Swaggering Braggart
 	1 CR19 Turn of Coat
-	1 CR22 Once More unto the Breach
+	1 CR22 Rebuff and Rout
 	1 CR20 Handfixer
 	1 CR21 Really Big Cat
 	1 CR08 Tormenting Voice
@@ -876,9 +875,9 @@
 	1 CL02 Sentinel Kopje
 	1 CL01 Amber Veldt
 	1 CU11 Flying Dork
-	1 CM01 Pridelaw Magistrate
+	1 CM01 Bird Counsel
 	1 CM02 Loyal Masses
-	1 CM03 Elder Leaper
+	1 CM03 Elder Counsel
 	1 CM04 Well-Armed Courier
 	1 CL04 Pride Cathedral
 	1 CL05 Leap Library
@@ -887,10 +886,11 @@
 	1 CM06 Cat-Owl 2
 	1 CR23 Headsman's Stroke
 	1 CR03 Shock
-	1 CR10 Shocking Pouncer
 	1 CU16 Words, Words, Words
 	1 CU08 Rude Interruption
 	1 CU09 Leap Scoundrel
 	1 CW18 Coalition Mediator
 	1 CW11 Kitty Coordinator
 	1 CW09 Big Cat
+	1 CR10 Hastemaker
+	1 CU17 The Peeker

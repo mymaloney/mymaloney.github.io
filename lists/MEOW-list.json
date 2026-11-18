@@ -20,7 +20,7 @@
     },
     {
         "card_name": "CR01 Cheetah Charm",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -50,7 +50,7 @@
     },
     {
         "card_name": "CR02 Coalition Fanatic",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -80,7 +80,7 @@
     },
     {
         "card_name": "CR03 Shock",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -110,7 +110,7 @@
     },
     {
         "card_name": "CR04 Pride Deserter",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -120,7 +120,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "CW05 Take Vengeance",
+        "card_name": "CW05 Feline Flicker",
         "number": 5,
         "shape": "normal",
         "set": "MEOW",
@@ -140,7 +140,7 @@
     },
     {
         "card_name": "CR05 Coalition Radical",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -170,7 +170,7 @@
     },
     {
         "card_name": "CR06 Coalition Engineer",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -200,7 +200,7 @@
     },
     {
         "card_name": "CR07 Coalition Archer",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -230,7 +230,7 @@
     },
     {
         "card_name": "CR08 Tormenting Voice",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -260,7 +260,7 @@
     },
     {
         "card_name": "CR09 Incite the Serfs",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -289,12 +289,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "CR10 Shocking Pouncer",
-        "number": 110,
+        "card_name": "CR10 Hastemaker",
+        "number": 111,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
-        "position": "170"
+        "position": "177"
     },
     {
         "card_name": "e"
@@ -320,7 +320,7 @@
     },
     {
         "card_name": "CR11 Coalition Vanguard",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -350,7 +350,7 @@
     },
     {
         "card_name": "CR12 Seize the Hour",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -380,7 +380,7 @@
     },
     {
         "card_name": "CR13 Kindlesparker",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -410,7 +410,7 @@
     },
     {
         "card_name": "CR14 Leap Deserter",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -420,7 +420,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "CW15 Prowler",
+        "card_name": "CW15 Lurking Captor",
         "number": 15,
         "shape": "normal",
         "set": "MEOW",
@@ -440,7 +440,7 @@
     },
     {
         "card_name": "CR15 Coalition Cannonmaster",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -470,7 +470,7 @@
     },
     {
         "card_name": "CR16 Catch!",
-        "number": 116,
+        "number": 117,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -480,7 +480,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "CW17 Pride Sappers",
+        "card_name": "CW17 Rousing Returner",
         "number": 17,
         "shape": "normal",
         "set": "MEOW",
@@ -488,19 +488,19 @@
         "position": "15"
     },
     {
-        "card_name": "CU17 Mana Drinker",
+        "card_name": "CU17 The Peeker",
         "number": 67,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
-        "position": "39"
+        "position": "178"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "CR17 Leopard Hunter",
-        "number": 117,
+        "number": 118,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -530,7 +530,7 @@
     },
     {
         "card_name": "CR18 Swaggering Braggart",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -560,7 +560,7 @@
     },
     {
         "card_name": "CR19 Turn of Coat",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -590,7 +590,7 @@
     },
     {
         "card_name": "CR20 Handfixer",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -620,7 +620,7 @@
     },
     {
         "card_name": "CR21 Really Big Cat",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -649,8 +649,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CR22 Once More unto the Breach",
-        "number": 122,
+        "card_name": "CR22 Rebuff and Rout",
+        "number": 123,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -680,7 +680,7 @@
     },
     {
         "card_name": "CR23 Headsman's Stroke",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -703,8 +703,8 @@
     },
     "a->gold",
     {
-        "card_name": "CM01 Pridelaw Magistrate",
-        "number": 163,
+        "card_name": "CM01 Bird Counsel",
+        "number": 165,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -724,7 +724,7 @@
     },
     {
         "card_name": "CM06 Cat-Owl 2",
-        "number": 168,
+        "number": 170,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -761,8 +761,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "CM03 Elder Leaper",
-        "number": 165,
+        "card_name": "CM03 Elder Counsel",
+        "number": 167,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -773,7 +773,7 @@
     },
     {
         "card_name": "CM02 Loyal Masses",
-        "number": 164,
+        "number": 166,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -787,7 +787,7 @@
     },
     {
         "card_name": "CM04 Well-Armed Courier",
-        "number": 166,
+        "number": 168,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -798,7 +798,7 @@
     },
     {
         "card_name": "CM05 Savannah Lions is Boros",
-        "number": 167,
+        "number": 169,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -822,7 +822,7 @@
     "a->land",
     {
         "card_name": "CL04 Pride Cathedral",
-        "number": 172,
+        "number": 174,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -830,7 +830,7 @@
     },
     {
         "card_name": "CL05 Leap Library",
-        "number": 173,
+        "number": 175,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "CL06 Coalition Armory",
-        "number": 174,
+        "number": 176,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -867,7 +867,7 @@
     },
     {
         "card_name": "CL02 Sentinel Kopje",
-        "number": 170,
+        "number": 172,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -905,7 +905,7 @@
     },
     {
         "card_name": "CL03 Thornwood Kloof",
-        "number": 171,
+        "number": 173,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
@@ -916,7 +916,7 @@
     },
     {
         "card_name": "CL01 Amber Veldt",
-        "number": 169,
+        "number": 171,
         "shape": "normal",
         "set": "MEOW",
         "rotated": false,
